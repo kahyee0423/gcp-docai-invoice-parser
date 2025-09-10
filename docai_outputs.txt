@@ -1,0 +1,45 @@
+                     Type                                         Raw Value   Normalized Value Confidence
+0                due_date                                      Sep 30, 2019         2019-09-30        99%
+1              net_amount                                         22,379.39           22379.39        99%
+2            total_amount                                         19,647.68           19647.68        99%
+3            invoice_date                                      Sep 24, 2019         2019-09-24        98%
+4        total_tax_amount                                          1,767.97            1767.97        94%
+5           receiver_name                                       Jane Smith,                           88%
+6        receiver_address  1600 Amphitheatre Pkway\nMountain View, CA 94043                           77%
+7              invoice_id                                         23413561D                           60%
+8          freight_amount                                            199.99             199.99        60%
+9            invoice_type                                                    invoice_statement        59%
+10               currency                                                 $                USD        58%
+11          supplier_name                                            Google             Google        37%
+12              line_item                   9.99 12 12 ft HDMI cable 119.88                          100%
+13   line_item/unit_price                                              9.99               9.99        95%
+14     line_item/quantity                                                12                 12        75%
+15  line_item/description                                  12 ft HDMI cable                           64%
+16       line_item/amount                                            119.88             119.88        90%
+17              line_item           12 399.99 27" Computer Monitor 4,799.88                          100%
+18     line_item/quantity                                                12                 12        76%
+19   line_item/unit_price                                            399.99             399.99        95%
+20  line_item/description                              27" Computer Monitor                           42%
+21       line_item/amount                                          4,799.88            4799.88        93%
+22              line_item                Ergonomic Keyboard 12 59.99 719.88                          100%
+23  line_item/description                                Ergonomic Keyboard                           42%
+24     line_item/quantity                                                12                 12        75%
+25   line_item/unit_price                                             59.99              59.99        94%
+26       line_item/amount                                            719.88             719.88        85%
+27              line_item                     Optical mouse 12 19.99 239.88                          100%
+28  line_item/description                                     Optical mouse                           55%
+29     line_item/quantity                                                12                 12        72%
+30   line_item/unit_price                                             19.99              19.99        94%
+31       line_item/amount                                            239.88             239.88        81%
+32              line_item                      Laptop 12 1,299.99 15,599.88                          100%
+33  line_item/description                                            Laptop                           65%
+34     line_item/quantity                                                12                 12        71%
+35   line_item/unit_price                                          1,299.99            1299.99        94%
+36       line_item/amount                                         15,599.88           15599.88        91%
+37              line_item              Misc processing fees 899.99 899.99 1                          100%
+38  line_item/description                              Misc processing fees                           54%
+39   line_item/unit_price                                            899.99             899.99        92%
+40       line_item/amount                                            899.99             899.99        82%
+41     line_item/quantity                                                 1                  1        68%
+
+[42 rows x 4 columns]
